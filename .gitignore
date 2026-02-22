@@ -1,3 +1,3 @@
 node_modules/
 dist/
-medicalcare-api/medicare.db
+medicare-api/medicare.db*
